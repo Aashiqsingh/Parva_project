@@ -1,0 +1,32 @@
+HTML --> Hyper text markup language 
+        - gyper text --> Link
+        - markup language --> encoding
+
+who developed html?
+- Tim Berners-Lee
+
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> (jan , 1997) -- failure
+html 4 --> (dec , 1997) - 4.2 --> 2000
+html 5 --> 2014 - 5.2 --> 2017 
+
+introduced --> 1993 --> first website --> https://info.cern.ch 
+
+use html?
+- To create a static structure of webiste or webpages.
+
+html --> browser / client side  
+
+
+html structure:
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+
+</body>
+</html>
