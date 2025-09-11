@@ -1,0 +1,17 @@
+There are three operators in JavaScript:
+
+1. Unary operators:
+    - it will required only one operand
+2. Binary operators:
+    - it will required two operands
+3. Ternary operator:
+    - it will required three operands
+
+
+
+Binary Operators:
+1. Airthmatic Operators: + , - , * , / , % , **
+2. Assignment operator : = , (+= , -= , *= , /= , %=)-- short hand assignment
+3. relational operator/comparision operator : < , > , <= , >= , == , != , === , !==
+4. Logical Operators : && , || , ! , 
+5. Bitwise Operators : & , | , ^ , ~ , << , >>

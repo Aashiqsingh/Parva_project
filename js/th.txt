@@ -1,0 +1,59 @@
+programming lnaguage -> pragramming language is a set of instruction given to perform a task.
+main()
+
+script langague -> scriptting language is a subset of programming language.
+single code -->
+
+javascript --> scriptting language
+
+there are two types of page.
+1. static page
+    - when u declare variable u need declare datatype
+2. dynamically page
+ - no datatype required
+
+
+History of javaScript :
+Javascript devloped by breden eich by netscap navigator in 1995.
+
+
+JavaScript engins:
+
+browser  engine        compnay
+firefox spider monkey   mozilla
+chrome  v8              google  -- 
+safari  nitro           apple
+edge   chakra          microsoft
+
+
+Static page:
+    It will required data types
+
+Dynamic page
+    it will not requred datatypes
+
+
+There are three ways to define js.
+1. external js [.js]
+2. internal js <script>
+3. inline js 
+
+
+There is no Data type 
+
+There are three keyword 
+1. var - global scope 
+2. let -- block scope 
+3  const -- block scope -- can't change the value 
+
+
+
+JavaScript use?
+- To manipulate the Dom[Document object model]
+
+
+{
+  
+}
+
+const pi = 3.14
