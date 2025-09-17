@@ -1,0 +1,6 @@
+java --> multi threded application
+
+javascript ---> single threaded application
+
+
+Callback
