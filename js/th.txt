@@ -57,3 +57,54 @@ JavaScript use?
 }
 
 const pi = 3.14
+
+
+
+let myPin = 6354
+fun check(){
+	let avlbal = 4000;
+	return avlbal;
+}
+
+fun deposit(cb){
+	Enter ur amount: 5000
+	Succefull depos
+	let x = cb()
+	x += amount
+	
+	after deposited ur avlbal is : 9000
+}
+
+fun withdrwa(cb){
+	let x = cb()
+	amount : 5000
+	if(amount < x)
+	{
+		succefull withdrwa : 5000
+		after withdrwa ur avlbak is : x -= amount
+	}
+	else{
+		insufficient bal
+	}
+}
+
+
+Acount : 
+Pin : 
+if(mypin )
+{
+	1. chekc bal
+	2. deposit
+	3. withdrwa
+
+	switch(choice){
+		case 1: let ans = che()
+			ans -- print 
+			break;
+		case 2: deposit(checkbal)
+		case 3: withdrwa(checkbal)
+	}
+}
+else{
+	invalid pin.
+}
