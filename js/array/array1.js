@@ -56,3 +56,8 @@ var users = ["parva","solanki","khyatis","meet","dhaval","rahul"]
 
 // console.log(x);
 
+let str = "parva"
+
+let x = str.split("").reverse().join("")
+console.log(x);
+
