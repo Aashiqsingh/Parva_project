@@ -85,10 +85,31 @@ var departments = [
 // console.log(ans);
 
 
-let ans = departments.map((depart)=>{
-    return depart.employees.filter((emp)=>{
-        return emp.gender == "male"
-    })
-})
+// let ans = departments.map((depart)=>{
+//     return depart.employees.filter((emp)=>{
+//         return emp.gender == "male"
+//     })
+// })
 
-console.log(ans);
+// console.log(ans);
+
+// find
+
+// let ans = departments.find((depart)=>{
+//     return depart.name == "Finance"
+// }).employees.filter((emp)=>{
+//     return emp.gender == "female"
+// })
+
+
+
+// let ans = departments.find((depart)=> depart.name =="Finance").employees.filter((emp)=> emp.gender == "female")
+
+// console.log(ans);
+
+
+// let ans = departments.find((depart)=> depart.name == "IT").employees.filter((emp)=> emp.age >= 25)
+// console.log(ans);
+
+// let ans = departments.map((depart)=> depart.employees.filter((emp)=> emp.name.startsWith("s")))
+// console.log(ans);
