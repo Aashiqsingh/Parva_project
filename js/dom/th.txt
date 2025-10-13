@@ -1,0 +1,13 @@
+DOM --> Document object model
+
+
+Identifier:'
+1. id -- uniqui 
+2. class -- multiple 
+3. tagname -- multiple
+4. name -- multiple 
+5. querryselector 
+
+
+Event:
+1. onclick
